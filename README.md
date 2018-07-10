@@ -1,0 +1,2 @@
+# Laravel Generate Language File
+
