@@ -1,6 +1,6 @@
 <?php
 
-namespace Mratiebatie\GenerateLanguageFile\Commands;
+namespace MrAtiebatie\GenerateLanguageFile\Commands;
 
 use Illuminate\Console\Command;
 

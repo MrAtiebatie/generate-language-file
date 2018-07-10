@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace MrAtiebatie\GenerateLanguageFile;
 
 use Illuminate\Support\ServiceProvider;
 use App\Console\Commands\GenerateLanguageFile;
