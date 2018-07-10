@@ -3,7 +3,7 @@
 namespace MrAtiebatie\GenerateLanguageFile;
 
 use Illuminate\Support\ServiceProvider;
-use App\Console\Commands\GenerateLanguageFile;
+use MrAtiebatie\GenerateLanguageFile\Commands\GenerateLanguageFile;
 
 class LanguageServiceProvider extends ServiceProvider
 {
