@@ -21,7 +21,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Mratiebatie\\GenerateLanguageFile\\LanguageServiceProvider"
+                "MrAtiebatie\\GenerateLanguageFile\\LanguageServiceProvider"
             ]
         }
     }
