@@ -1,0 +1,28 @@
+{
+    "name": "mratiebatie/generate-language-file",
+    "description": "Generate the language files for JavaScript",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sjors van Dongen",
+            "email": "sitesjors@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "illuminate/console": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mratiebatie\\GenerateLanguageFile\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mratiebatie\\GenerateLanguageFile\\LanguageServiceProvider"
+            ]
+        }
+    }
+}
